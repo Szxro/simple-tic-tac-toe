@@ -15,7 +15,7 @@ This project is based on the official React Tic-Tac-Toe tutorial, with a few of 
 1. clone the repository
 
 ```bash
-git clone
+git clone https://github.com/Szxro/simple-tic-tac-toe
 cd tic-tac-toe-react
 ```
 
